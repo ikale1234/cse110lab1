@@ -15,11 +15,11 @@ If I had to make a top 3 for these languages it would be:
 
 My favorite language is python due to the simple syntax and easy type switching
 
-'''
+```
 one = 1
 two = '2'
 three = False
-'''
+```
 
 You can take a look at some of the projects I've done [here](https://github.com/ikale1234).
 
